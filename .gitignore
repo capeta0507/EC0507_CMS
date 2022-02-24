@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+# auth/auth.js
+# auth/auth_fun.js
+# auth/jwt_fun.js
+.env
